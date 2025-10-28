@@ -30,7 +30,7 @@ Building scalable ML systems with **GCP Vertex AI**, **Airflow**, **Kubeflow**, 
 | [🎯 Azure Prediction Pipeline](https://github.com/AlanMLCH/azure_pdm_ml) | End-to-end pipeline for predictive maintenance | Python, Docker, FastAPI |
 | [🎮 Steam Game Recommender](https://github.com/AlanMLCH/steam-recommender) | Hybrid retrieval & ranking recommender with FAISS + TorchServe | PyTorch, FastAPI |
 | [🎵 Music Generation](https://github.com/AlanMLCH/sound_generator) | Transformer model generating MIDI tracks by instrument | PyTorch, CUDA |
-| [⚙️ ML Boilerplate](https://github.com/AlanMLCH/binary_classification) | Modular ML pipeline structure for binary classification | Python |
+| [⚙️ ML Boilerplate for Binary Classification](https://github.com/AlanMLCH/binary_classification) | Modular ML pipeline structure for binary classification | Python, Docker |
 
 ---
 
@@ -42,6 +42,6 @@ Building scalable ML systems with **GCP Vertex AI**, **Airflow**, **Kubeflow**, 
 ---
 
 ### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanmlch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alanmlc/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlanMLCH)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://alanmlch.github.io)
