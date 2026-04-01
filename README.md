@@ -6,10 +6,11 @@ Building scalable ML systems with **GCP Vertex AI**, **Airflow**, **Kubeflow**, 
 ---
 
 ### 🧠 About Me
+- 💼 Machine Learning Engineer @ **Paco APP** — MLOps Pipelines, Sagemaker Pipelines, AWS
 - 💼 MLOps Engineer @ **Gentera** — Fraud detection, Vertex AI pipelines, Airflow orchestration  
 - 🤖 Former Data Scientist @ ECOSAT | 
 - 🤖 Parsing Data Engineer and QA Lead @ Scale AI  
-- ☁️ Experienced in GCP, Azure, and hybrid ML deployments  
+- ☁️ Experienced in GCP, Azure, AWS, and hybrid ML deployments  
 - 🧩 Passionate about **reproducible ML**, **automation**, **AI systems design**, **MLOps**
 - 🎮 Currently learning **Game Development** (Unity + C#) and Reinforcement Learning 🤗
 
@@ -18,9 +19,9 @@ Building scalable ML systems with **GCP Vertex AI**, **Airflow**, **Kubeflow**, 
 ### ⚙️ Tech Stack
 💻 **Languages:** Python, Javasript, SQL, Bash  
 📦 **ML:** TensorFlow, PyTorch, XGBoost, Scikitlearn  
-☁️ **Cloud & MLOps:** GCP (Vertex AI, BigQuery, Composer), Docker, Kubernetes, Databricks, CI/CD  
+☁️ **Cloud & MLOps:** GCP (Vertex AI, BigQuery, Composer), AWS (Lambda, Step Functions, API Gateway, S3, Sagemaker, ECR), Docker, Kubernetes, Databricks, CI/CD  
 📊 **Data:** Pandas, dbt, Power BI, Apache Spark, Polars 
-🧰 **Dev Tools:** Make, FastAPI, Poetry, VSCode  
+🧰 **Dev Tools:** Make, FastAPI, Poetry, VSCode, UV
 
 ---
 
