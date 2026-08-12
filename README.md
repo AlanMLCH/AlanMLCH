@@ -6,6 +6,7 @@ Building scalable ML systems with **GCP Vertex AI**, **Airflow**, **Kubeflow**, 
 ---
 
 ### 🧠 About Me
+- 🤖 Senior Data Scientist @ kubo.financiero |
 - 💼 Machine Learning Engineer @ **Paco APP** — MLOps Pipelines, Sagemaker Pipelines, AWS
 - 💼 MLOps Engineer @ **Gentera** — Fraud detection, Vertex AI pipelines, Airflow orchestration  
 - 🤖 Former Data Scientist @ ECOSAT | 
