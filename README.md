@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=190&section=header&text=Alan%20L%C3%B3pez&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=MLOps%20%26%20Machine%20Learning%20Engineer%20%C2%B7%20Production%20ML%20on%20AWS%20%26%20GCP&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Alan López — MLOps & Machine Learning Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=190&section=header&text=Alan%20L%C3%B3pez&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=MLOps%20%26amp%3B%20Machine%20Learning%20Engineer%20%C2%B7%20Production%20ML%20on%20AWS%20%26amp%3B%20GCP&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Alan López — MLOps & Machine Learning Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=640&lines=Senior+Data+Scientist+%40+kubo.financiero;Production+ML+on+AWS+SageMaker+%26+GCP+Vertex+AI;Models+that+train%2C+deploy+%26+retrain+themselves;From+Engineering+Physics+to+MLOps" alt="Senior Data Scientist @ kubo.financiero" />
 
