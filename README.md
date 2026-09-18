@@ -71,7 +71,7 @@ Outside of ML, I'm into **video game development**. I'm building a co-op multipl
 | **Generative AI** | GPT-4o · Multi-agent systems · Model Context Protocol (MCP) |
 | **Data & BI** | Pandas · Polars · Apache Spark · Databricks · dbt · Azure Data Factory · SQL Server · MySQL · MariaDB · Power BI |
 | **APIs & Apps** | FastAPI · Flask · Streamlit |
-| **Languages** | Python · SQL · JavaScript (Node.js) · Bash |
+| **Languages** | Python (uv) · SQL · JavaScript (Node.js) · Bash |
 | **Game Dev** | Unity 6 · C# · URP · Netcode for GameObjects |
 | **Exploring** | Reinforcement Learning |
 
