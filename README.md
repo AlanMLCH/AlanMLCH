@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=190&section=header&text=Alan%20L%C3%B3pez&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=MLOps%20%26amp%3B%20Machine%20Learning%20Engineer%20%C2%B7%20Production%20ML%20on%20AWS%20%26amp%3B%20GCP&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Alan López — MLOps & Machine Learning Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=640&lines=Senior+Data+Scientist+%40+kubo.financiero;Production+ML+on+AWS+SageMaker+%26+GCP+Vertex+AI;Models+that+train%2C+deploy+%26+retrain+themselves;From+Engineering+Physics+to+MLOps" alt="Senior Data Scientist @ kubo.financiero" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=640&lines=Machine+Learning+Engineer+%40+Capgemini;Production+ML+on+AWS+SageMaker+%26+GCP+Vertex+AI;Models+that+train%2C+deploy+%26+retrain+themselves;From+Engineering+Physics+to+MLOps" alt="Machine Learning Engineer @ Capgemini" />
 
 <br />
 
@@ -16,22 +16,21 @@
 
 ## About Me
 
-I'm an **MLOps / Machine Learning Engineer** with a background in **Engineering Physics**. I design and run end-to-end production ML systems on **AWS** and **GCP** across banking, retail and IoT, from fraud detection and demand forecasting to constraint optimization and generative AI.
+I'm an **MLOps / Machine Learning Engineer** at **Capgemini**, with a background in **Engineering Physics**. I design and run end-to-end production ML systems on **AWS** and **GCP** across banking, retail and IoT, from fraud detection and demand forecasting to constraint optimization and generative AI.
 
 What interests me is what happens *after* the model works in a notebook. Most of the value in machine learning is lost in the gap between a working model and a system a business can rely on, and that gap is where I work: turning experiments into pipelines that train, deploy, monitor and retrain themselves, with the governance and reproducibility production demands.
 
 I own the full lifecycle: data pipelines and feature stores, CI/CD and Infrastructure as Code, containerized deployment, model monitoring and drift detection, automated retraining, and both batch and real-time inference.
 
-Outside of ML, I'm into **video game development**. I'm building a co-op multiplayer action-RPG roguelike in Unity 6 and C#.
+My current side project is **[coffee-mlops](https://github.com/AlanMLCH/coffee_mlops)**: a domain-reusable MLOps framework that runs end to end on a laptop, bootstrapped on coffee from the farm to Mexico City's coffee shops.
+
+Outside of ML, I'm into **video game development**. I'm building two games in Unity 6 and C#: a co-op multiplayer action-RPG roguelike and a turn-based tactical card RPG.
 
 
 ## Experience
 
-**Senior Data Scientist** · kubo.financiero  
-<sub>Jun 2026 – Present · Mexico City · Banking</sub>
-- Fixed data-validation and idempotency gaps in core credit-offer pipelines (renewal/consolidation) and parallelized them from **2 h to 10 min**
-- Built a new origination **Flask REST API** (batch + real-time) that automates client selection and business-rule evaluation
-- Designing the AWS roadmap to phase out manual/legacy ETL in Data & Credit Risk; migrated Excel reporting to Python ETLs feeding Streamlit dashboards
+**Machine Learning Engineer** · Capgemini  
+<sub>Oct 2026 – Present · Mexico City · Hybrid</sub>
 
 **Machine Learning Engineer** · Paco App  
 <sub>Nov 2025 – Jun 2026 · Mexico City · Retail</sub>
@@ -41,7 +40,7 @@ Outside of ML, I'm into **video game development**. I'm building a co-op multipl
 - Architected a multi-agent **GPT-4o** chatbot using **MCP** to query MariaDB and the workforce app in natural language
 
 **MLOps Engineer** · Gentera  
-<sub>Mar 2024 – Oct 2025 · Mexico City · Banking</sub>
+<sub>Mar 2024 – Sep 2025 · Mexico City · Banking</sub>
 - Designed and maintained batch MLOps pipelines for **fraud detection** on GCP with **Vertex AI + Kubeflow**, orchestrated by **Airflow on Cloud Composer**
 - CI/CD for automated retraining, validation and deployment; drift monitoring with BigQuery and **Evidently AI**; unit tests for DAGs and Vertex Pipelines
 
@@ -65,21 +64,23 @@ Outside of ML, I'm into **video game development**. I'm building a co-op multipl
 |------|-------|
 | **AWS** | SageMaker Pipelines · Step Functions · Lambda · Glue · S3 · ECR · EventBridge · API Gateway · CloudFormation |
 | **GCP** | Vertex AI · BigQuery · Cloud Composer · Cloud Run · Pub/Sub |
-| **MLOps** | MLflow · Kubeflow · Apache Airflow · Dagster · Evidently AI · DVC |
+| **MLOps** | MLflow · Kubeflow · Apache Airflow · Dagster · Evidently AI · DVC · Pandera |
 | **CI/CD & Infra** | Azure DevOps · Jenkins · Docker · Kubernetes · Infrastructure as Code · pytest |
-| **ML & Optimization** | XGBoost · scikit-learn · PyTorch · TensorFlow · OR-Tools · FAISS · Optuna |
-| **Generative AI** | GPT-4o · Multi-agent systems · Model Context Protocol (MCP) |
-| **Data & BI** | Pandas · Polars · Apache Spark · Databricks · dbt · Azure Data Factory · SQL Server · MySQL · MariaDB · Power BI |
+| **ML & Optimization** | XGBoost · LightGBM · scikit-learn · PyTorch · TensorFlow · OR-Tools · FAISS · Optuna |
+| **Generative AI** | GPT-4o · Multi-agent systems · Model Context Protocol (MCP) · LangGraph · RAG with Qdrant · Ollama |
+| **Data & BI** | Pandas · Polars · DuckDB · Apache Spark · Databricks · dbt · Azure Data Factory · SQL Server · MySQL · MariaDB · Power BI |
 | **APIs & Apps** | FastAPI · Flask · Streamlit |
 | **Languages** | Python (uv) · SQL · JavaScript (Node.js) · Bash |
-| **Game Dev** | Unity 6 · C# · URP · Netcode for GameObjects |
+| **Game Dev** | Unity 6 · C# · URP · UI Toolkit · Netcode for GameObjects |
 | **Exploring** | Reinforcement Learning |
 
 ## Featured Projects
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
+| **[Coffee MLOps](https://github.com/AlanMLCH/coffee_mlops)**<br /><sub>In development</sub> | Domain-reusable MLOps framework that runs fully local, built on coffee from the farm to the cup: 25 sources held to data contracts, nine models promoted only past a paired-bootstrap gate, drift monitoring, and a LangGraph agent over SQL, the prediction API and Qdrant, served through FastAPI, an MCP server and a Streamlit explorer | Polars · DuckDB · LightGBM · MLflow · Evidently · LangGraph · Qdrant · FastAPI · MCP |
 | **Unity roguelike videogame**<br /><sub>In development</sub> | 3D co-op action-RPG roguelike for 1–4 players: create a character, pick a class and fight through 12 increasingly harder areas per run, with JRPG-style progression, four independently charging skills and bosses that scale with party size | Unity 6 · C# · URP · Netcode for GameObjects |
+| **Unity tactical card RPG**<br /><sub>In development</sub> | Turn-based tactics on a 20×20 board crossed with a Yu-Gi-Oh!-style card game: 179 cards across six elemental factions, a reaction chain, fusion and ritual summons, and an AI personality per faction, on a deterministic C# rules engine tested with golden AI-vs-AI replays | Unity 6 · C# · URP · UI Toolkit · NUnit |
 | **[Azure Predictive Maintenance](https://github.com/AlanMLCH/azure_pdm_ml)** | Production-ready template that predicts machine failures 24h ahead from sensor telemetry: rolling-window features, config-driven runs, and a FastAPI serving API | Python · scikit-learn · Hydra · Docker · FastAPI |
 | **[Steam Game Recommender](https://github.com/AlanMLCH/steam-recommender)** | Two-tower retrieval model with a FAISS index for fast similarity search, served through FastAPI with a Streamlit dashboard | PyTorch · FAISS · FastAPI · DVC · Docker |
 | **[Music Generation](https://github.com/AlanMLCH/sound_generator)** | Transformer that generates MIDI tracks by instrument, with hyperparameter tuning and a web UI for generation | PyTorch · CUDA · Optuna · FastAPI |
